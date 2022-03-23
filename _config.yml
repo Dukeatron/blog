@@ -1,0 +1,5 @@
+# Jekyll config
+name: Duk's Blog
+description: Blog for Duk
+markdown: kramdown
+highlighter: rouge
